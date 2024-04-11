@@ -154,7 +154,7 @@ You can use 'any string '.ext to all
 - `toColor` (Color): Returns a Color object from the color code.
 - `isNullOrEmpty` (bool): Returns true if the string is null or empty.
 - `isNotNullOrNoEmpty` (bool): Returns true if the string is not null and not empty.
-- `isValidEmail` (bool): Checks if the string is a valid email address.
+- `isValidEmail` (bool): Checks if the jjstring is a valid email address.
 - `isValidPassword` (bool): Checks if the string is a valid password.
 - `withoutSpecialCharacters` (String?): Removes all diacritics from the string.
 - `phoneFormatValue` (String): Returns the value of the phone number without formatting characters.
